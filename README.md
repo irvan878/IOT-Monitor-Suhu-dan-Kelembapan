@@ -22,17 +22,18 @@ Desain Circuit:
 ![Desin](https://github.com/user-attachments/assets/2c44d758-de7e-499a-be81-e6c6c8a34a98)
 
 1. Buat Channel di ThingSpeak
+   https://thingspeak.mathworks.com/
    - Daftar/login ke ThingSpeak
    - Buat channel baru
    - Aktifkan field 1 dan field 2 untuk suhu dan kelembapan
    - Salin Write API Key
-2. Instal Library di Arduino IDE
+3. Instal Library di Arduino IDE
    - Melalui Library Manager:
      - DHT sensor library by Adafruit
      - ThingSpeak library
      - ESP8266 board melalui Board Manager
 
-3. Upload Kode ke ESP8266
+4. Upload Kode ke ESP8266
 
 
 Foto Hasil:
